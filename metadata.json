@@ -1,0 +1,6 @@
+{
+  "name": "Career Counseling",
+  "description": "Career counseling assessment platform matching student traits with career paths, with role-based access, academic counseling dashboards, and PDF report export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
